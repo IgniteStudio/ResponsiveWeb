@@ -1,5 +1,6 @@
 .menu-btn {
   position: absolute;
+  top: 5rem;
   z-index: 3;
   right: 35px;
   cursor: pointer;
@@ -100,7 +101,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/hup.jpg);
+    background: url(../img/l4w.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -218,6 +219,7 @@ main {
       .boxes div:hover span {
         color: #000; }
   .boxes#work {
+    background-image: url("dd.jpg");
     overflow: hidden; }
     .boxes#work h1 {
       margin-top: 20vh; }
